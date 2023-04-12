@@ -281,7 +281,7 @@ footer{
     /*BANNER PRINCIPAL -- INICIO*/
 
 .profesionales{
-    background-image: linear-gradient(104deg, #305e77 0%, rgba(7, 7, 7, 0.3) 100%), url(../images/images/banners/0-2.jpg);
+    background-image: linear-gradient(104deg, #305e77 0%, rgba(7, 7, 7, 0.3) 100%), url(../images/banners/banner1-madrigal.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -530,7 +530,7 @@ footer{
     /*FACTOR DIFERENCIADOR -- INICIO*/
 
 .factor-caja1{
-    background-image: url(../images/images/imagenes/8.png);
+    background-image: url(../images/imagenes/imagen-madrigalph\ \(8\).jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;    
